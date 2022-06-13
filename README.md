@@ -12,6 +12,6 @@
 - Padding fixes for the footer can be done
 - Try to keep the paragraphs **text-justify**
 
-**All the best for next Thanks and Assignments**
+**All the best for next Tasks and Assignments**
 
 ## Thank you - Regards Vocalslocal
